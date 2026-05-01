@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Site do improviso</h1>
+        <p>Esse é o primeiro paragrafo vou colocar uma foto</p>
+            <img src=""
+            width="300px"
+            height="300px">
+        <p>Agora vou fazer um nome com link youtube e cliando abre um video qualquer.</p>
+    <a href="https://www.youtube.com/watch?v=zyAJP3xvpEc" target="_blank">Youtube</a><br><br>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=5pe%2fyQx8&id=8DBF480EDCC4066E476E4E2FB7564082D067D5BC&thid=OIP.5pe_yQx8BbYpf6oxctQi0AHaEK&mediaurl=https%3a%2f%2fas1.ftcdn.net%2fv2%2fjpg%2f08%2f40%2f62%2f34%2f1000_F_840623497_sGiFtKut63aY4tBVa9VXzN16feiXgO9f.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e697bfc90c7c05b6297faa3172d422d0%3frik%3dvNVn0IJAVrcvTg%26pid%3dImgRaw%26r%3d0&exph=563&expw=1000&q=dragon+&FORM=IRPRST&ck=117523D57262DCEEB9EFEA4222BA522B&selectedIndex=26&itb=0""></a><br><br>
+              <img src="https://th.bing.com/th/id/R.5d27099922e5fa89a861563885703ace?rik=cgEocH0lOn63Yg&riu=http%3a%2f%2fbestanimations.com%2fFantasy%2fDragons%2fdragon-animated-gif-60.gif&ehk=0ugHBqlCMs3sl9DZooNbNDhHBMt7tN%2fYIEHuErOma00%3d&risl=&pid=ImgRaw&r=0"></a><br><br> 
+
+</body>
+</html>
