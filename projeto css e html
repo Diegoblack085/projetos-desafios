@@ -1,1 +1,129 @@
+HTNML
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Site</title>
+</head>
+<body>
+    <h1>Site</h1>
+    
+     
+    <form>
+      
+<h2>Dados</h2>
+    <label for="senha">Senha:</label>
+    <input name="senha" placeholder="Digite sua senha"  required type="password" ></input><br><br>
+    </label>
+ 
+        <label for="nome">Nome:
+        <input name="nome" placeholder="Digite seu nome" required type="name" ></input><br><br>
+        </label>
+
+        <label for="Email">Email:</label>
+        <input  placeholder="Digite seu email" required type="email" ></input><br>
+        </label><br><br>
+        <INPUT type="submit" value="Enviar"></input><br><br>
+   <hr>
+          <h2>Formulário</h2>
+          <p>Selecione uma opção:</p>
+            <select>
+            <option value="1">Diego</option>
+            <option value="2">Diego 2</option>
+            <option value="3">Diego 3</option>
+            </select><br><br>   
+   <hr>
+                    <h2>Selecione suas preferências</h2>
+                    <p>Selecione o que você gosta:</p>
+                    <label for="ex1">
+                    <input  name="ex1" required type="checkbox" > Exemplo1</input>
+                    </label><br><br>
+
+                        <label for="ex2">
+                        <input  name="ex2" required type="checkbox" > Exemplo2</input><br><br>
+                        </label>
+
+                            <label for="ex3">
+                            <input  name="ex3" required type="checkbox" > Exemplo3</input><br><br>
+                            </label>
+
+                                <label for="ex4">
+                                <input  name="ex4" required type="checkbox" > Exemplo4</input><br><br>
+                                </label>
+   <hr>
+                            <h2>Selecione o que preferir</h2>
+                            <p>Selecione a opção mais te agradar!</p>
+                            <label for="ex1">
+                            <input  name="ex1" required type="radio" > Exemplo1</input><br><br>
+                            </label>
+
+                        <label for="ex1">
+                        <input  name="ex1" required type="radio" > Exemplo2</input><br><br>
+                        </label>
+
+                    <label for="ex1">
+                    <input  name="ex1" required type="radio" > Exemplo3</input><br><br>
+                    </label>
+
+                <label for="ex1">
+                <input  name="ex1" required type="radio" > Exemplo4</input><br><br>
+                </label>
+            <HR>
+    <form>
+        <h2>Video explicativo sobre o tema</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZMfNFAPlcpo?si=31i6VUrvN98NEv4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <HR>
+        <h2>Imagem</h2>
+        <img  width="50%" height="30%" src="sapato.jpeg">
+</body>
+</html>
+
+
+CSS
+
+body{
+    background-color: #ddd
+}
+h2{
+    font-size:45px;
+    text-align: left;
+    padding: 1px;
+    font-style: italic;
+     margin: 10px;
+     text-align: center;
+}
+p{
+    font-size: 30px;
+    font-style: oblique;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+img{
+    padding: 1%;
+    margin: 10px;
+    margin-left: 25%;
+}
+input{
+    margin: 1%;
+    padding: 10px;
+    text-align: center;
+}
+select{
+    margin: 0px;
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+iframe{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 18%;
+}
+label{
+    text-align: left;
+}
